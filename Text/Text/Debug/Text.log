@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\32652\documents\visual studio 2017\projects\text\text\main.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\32652\documents\visual studio 2017\projects\text\text\main.cpp(27): warning C4018: “>”: 有符号/无符号不匹配
+  Text.vcxproj -> c:\users\32652\documents\visual studio 2017\Projects\Text\Debug\Text.exe
+  Text.vcxproj -> c:\users\32652\documents\visual studio 2017\Projects\Text\Debug\Text.pdb (Partial PDB)

@@ -1,0 +1,15 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyObject_GetAttrString，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyCallable_Check，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyLong_FromLong，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyLong_AsLong，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyTuple_New，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyTuple_SetItem，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyRun_SimpleStringFlags，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__Py_Initialize，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__Py_Finalize，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyEval_CallObjectWithKeywords，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyImport_ImportModule，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyObject_CallObject，该符号在函数 _main 中被引用
+libs\python37_d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\1_WorkSpace\VisualStudio\Test\Debug\Test.exe : fatal error LNK1120: 12 个无法解析的外部命令

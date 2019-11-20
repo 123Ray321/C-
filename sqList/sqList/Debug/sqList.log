@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\visualstudio\sqlist\sqlist\main.cpp(168): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sqList.vcxproj -> D:\VisualStudio\sqList\Debug\sqList.exe
+  sqList.vcxproj -> D:\VisualStudio\sqList\Debug\sqList.pdb (Partial PDB)
